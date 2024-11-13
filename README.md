@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @chuz43
-- 👀 Building ARPAL...
+- 👋 Hi, I’m Amador
+Product Designer and low coder
 
 <!---
 chuz43/chuz43 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
